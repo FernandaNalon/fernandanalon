@@ -16,13 +16,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-- **[Sistema de Cadastro de Alunos](link-do-repositorio)** – POO em C#, cálculo de médias e exibição de dados.
-- **[Organizador de Livros](link-do-repositorio)** – Demonstração prática de orientação a objetos.
-- **[Projeto Web Responsivo](link-do-repositorio)** – HTML, CSS e JavaScript com foco em UI/UX.
-
----
-
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
