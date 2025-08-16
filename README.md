@@ -2,8 +2,10 @@
 
 # 👋 Olá! Eu sou a Fernanda Nalon
 
-💻 Desenvolvedora e docente em Tecnologia da Informação
+💻 Desenvolvedora e docente em Tecnologia da Informação  
+
 🎯 Desenvolvimento em **C#/.NET, JavaScript, HTML, CSS, Python, Java e outras tecnologias**  
+
 📍 Leciono no **Senac Lapa Tito**  
 
 ---
