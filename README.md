@@ -2,10 +2,8 @@
 
 # 👋 Olá! Eu sou a Fernanda Nalon
 
-<img src="https://avatars.githubusercontent.com/u/SEU-ID-GITHUB?v=4" width="150" style="border-radius: 50%;" alt="Foto de perfil">
-
-💻 Desenvolvedora e professora de TI  
-🎯 Foco em **C#/.NET, JavaScript, HTML, CSS e React**  
+💻 Desenvolvedora e docente em Tecnologia da Informação
+🎯 Desenvolvimento em **C#/.NET, JavaScript, HTML, CSS, Python, Java e outras tecnologias**  
 📍 Leciono no **Senac Lapa Tito**  
 
 ---
@@ -18,12 +16,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 Estatísticas
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaNalon&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaNalon&layout=compact&theme=dracula)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
