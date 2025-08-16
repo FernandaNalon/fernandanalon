@@ -1,31 +1,30 @@
-### 🧏🏻‍♀️ Hy, I'm Fernanda Nalon!
+# 👋 Olá! Eu sou a Fernanda Nalon
 
-• 💼 Looking for a job opportunity. <br>
-• 💻 I’m currently learning about web programming (Java and React). <br>
-• 😄 Pronouns: She, Her.<br>
-<br>
-<div>
-  <a href="https://github.com/FernandaNalon">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=FernandaNalon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="445em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaNalon&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Fe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fe-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fe-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-  <img align="center" alt="Fe-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Fe-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fe-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Fe-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
-</div>
-  
-  ##
-  
-  <div>  
-  <a href = "mailto:fernanda.nalon15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandanalon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  </div>
+💻 Desenvolvedora e professora de TI, atuando com **C#/.NET, JavaScript, HTML, CSS, Python e outras tecnologias**.  
+🎯 Foco em design e desenvolvimento web e desktop.  
+📍 Atualmente lecionando no **Senac Lapa Tito**.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
+
+---
+
+## 📌 Projetos em Destaque
+- **[Sistema de Cadastro de Alunos](link-do-repositorio)** – POO em C#, cálculo de médias e exibição de dados.
+- **[Organizador de Livros](link-do-repositorio)** – Demonstração prática de orientação a objetos.
+- **[Projeto Web Responsivo](link-do-repositorio)** – HTML, CSS e JavaScript com foco em UI/UX.
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
+---
