@@ -4,11 +4,13 @@
 
 💻 Desenvolvedora e docente em Tecnologia da Informação  
 
-🎯 Desenvolvimento em **C#/.NET, JavaScript, HTML, CSS, Python, Java e outras tecnologias**  
-
 📍 Leciono no **Senac Lapa Tito**  
 
+
+
 ---
+
+
 
 ## 🚀 Tecnologias e Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +23,11 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
+
+
 ---
+
+
 
 ## 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN)
