@@ -4,7 +4,10 @@
 
 💻 Desenvolvedora e docente em Tecnologia da Informação  
 
-📍 Leciono no **Senac Lapa Tito**  
+📍 Leciono no **Senac Lapa Tito**   
+
+
+
 
 
 
@@ -26,7 +29,11 @@
 
 
 
+
+
 ---
+
+
 
 
 
